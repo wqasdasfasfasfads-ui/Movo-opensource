@@ -1,0 +1,11 @@
+# build output
+build/
+*.exe
+*.dll
+*.log
+*.b64
+# editors / OS
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
