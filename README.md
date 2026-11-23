@@ -3,13 +3,9 @@
 **Movo** is a small, standalone programming language for Windows. Programs are plain text files with the `.mv` extension; libraries use `.mvl`. The interpreter is a single `movo.exe` written in C# — no Python, no C++, nothing to install beyond what Windows already includes.
 
 ```mv
-def greet(name):
-    print("Hello, " + name + "!")
-
-greet("Movo")
-
-for i in range(3):
-    print("line", i)
+Start in {
+ printon!("lol")
+}
 ```
 
 ## Features
