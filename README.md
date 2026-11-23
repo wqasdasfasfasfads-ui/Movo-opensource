@@ -10,7 +10,6 @@ Start in {
 
 ## Features
 
-- Python-like syntax (indentation or `{ }` blocks), functions with `def` / `fn`, classes, `try`, comprehensions
 - Built-in GUI toolkit (windows, buttons, text boxes, keyboard handling)
 - Built-in local web server for small sites (`.mvs` host files)
 - Native libraries `web` (HTTP with cookie sessions) and `browser` (drive Chrome/Edge)
